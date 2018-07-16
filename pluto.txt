@@ -1,1 +1,2 @@
 It has a beautiful heart feature but is no longer a planet.
+Should review selection criteria so that non-planet objects can also be considered.
